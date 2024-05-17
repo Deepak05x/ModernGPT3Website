@@ -52,10 +52,10 @@
 }
 
 .gpt3__header-content__input button{
-    flex: 0.6;
+    flex: 0.5;
     width: 100%;
     min-height: 50px;
-    background: rgba(255, 72, 32, 1);
+    background: rgba(0, 0, 255, 0.13);
     font-family: Manrope;
     font-size: 20px;
     font-weight: bold;
